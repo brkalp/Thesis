@@ -1,0 +1,5 @@
+  
+Instead of feeding the network just MC simulations, I interfere manually to prices and create artificial outliers.
+Labeling and training is done similarly.
+
+Increased sample size help network training, which gave accurate results and magnitudes of outliers.
