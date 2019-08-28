@@ -1,0 +1,4 @@
+Instead of labeling and feeding the network returns,
+I identify ARIMA models before and after the outliers, since they have different paramters, its Monte Carlo simulations are different.
+
+I label with binary classification both MC simulations and train the network. Network is able to locate the outliers locations however calculating its accuracy is not an easy task.
