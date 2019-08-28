@@ -1,0 +1,4 @@
+In events study, abnormal returns calculated via market model to calculate event specific returns.
+
+Here I calculate abnormal returns, recalculate price and plot.
+Then boxplot sum of the abnormal returns around outliers and do Welch test to see if they are statistically significant.
