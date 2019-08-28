@@ -1,4 +1,0 @@
-To calculate abnormal returns, usual approach is to use the market model (CAPM/single index model)
-
-Here I estimate Beta's and abnormal returns for different rolling windows, to show its importance as a parameter for this model.
-Then abnormal returns for different windows are calculated and plotted with confidence intervals.
