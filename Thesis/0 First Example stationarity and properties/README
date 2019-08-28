@@ -1,0 +1,2 @@
+Stationarity and normality tests are performed on prices, log and non-log returns.
+Homoskesdastic and heteroskesdastic time series are created as an example and rolling variance is plotted.
