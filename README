@@ -1,8 +1,14 @@
 Hello and welcome to my Github!
 
-This is a page I created to present my thesis codes. In the files you will see the codes used in every single section of my thesis.
-It is quite a long list of codes (xx lines) so I put the two applications which I find most interesting:
+This is a page I created to present my thesis codes. In the files you will see the codes used in every single section of my thesis in the thesis folder.
+I used market model, Kalman filter, ARIMA and ANN to analyze outliers and price abnormalities around outliers.
+
+In theory such practices are known as event studies.
+
+It is quite a long list of codes so I put the two applications which I find most interesting out of the file:
 
 (1) Using Kalman Filter to estimate betas and calculate abnormal returns, which are then used to train a neural network
 (2) Using ARIMA Monte Carlo simulations to simulate structural breaks and train neural networks
 Are here.
+
+Special thanks to rpy2, Keras and pmd.arima authors.
