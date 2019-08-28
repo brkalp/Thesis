@@ -1,0 +1,5 @@
+Research shows there are significant price differences prior to M&A activities.
+Such price run-ups are allocated to insider trading and complex investors that were able to predict the events.
+
+I got large tech companies and their merger activies from mrgr.com and calculate abnormal returns using the Kalman Filter.
+Merger announcements are labeled and network is trained.
