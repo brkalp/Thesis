@@ -3,10 +3,7 @@ Hello and welcome to my page!
 
 Here you can find my thesis, Stochastic model identification and model metrics with deep learning applications.
 
-In the files you will see the codes used in every single section of my thesis in the thesis folder.
-
 I used market model, Kalman filter, ARIMA and ANN to analyze outliers and price abnormalities around outliers.
 
-In academics simplier version of similar practices are known as event studies.
-
+In the files you will see my codes.
 Special thanks to rpy2, Keras and pmd.arima authors.
